@@ -2,7 +2,7 @@
 
 <p align="center">
 <image src="img/logo.jpg"/></br>
-<label>Projeto do curso  de Javascript da <a href="origamid.com">Origamid</a></label>
+<label>Projeto do curso  de Javascript da <a href="https://origamid.com/" target="_blank">Origamid</a></label>
 </p>
 
 <p align="center">
