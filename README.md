@@ -21,7 +21,7 @@
 ## Apresentação do Projeto :sparkles:
 
 <p align="center">
-<image src=".github/image-example.png" />
+<image src="https://github.com/nonatodiego/Animais-Fantasticos/blob/master/screencapture-nonatodiego-github-io-Animais-Fantasticos-2020-09-26-10_13_55.png" />
 </p>
 
 ---
